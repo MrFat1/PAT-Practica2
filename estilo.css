@@ -16,6 +16,14 @@ body {
     overflow: hidden;
 }
 
+form {
+    text-align: center;
+}
+
+fieldset {
+    margin: 50px;
+}
+
 .topnav a {
 float: left;
 color: #f2f2f2;
@@ -74,7 +82,7 @@ div.column {
 
 div.fila {
     clear: both;
-    display: table;
+    display: inline-block;
     margin-left: auto;
     margin-right: auto;
 }
