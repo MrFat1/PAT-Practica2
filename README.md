@@ -9,4 +9,4 @@ En la sección de Redes Sociales se encuentran varios links con imágenes para q
 
 El fichero accionesRepsol.html contiene una tabla con el resumen de cotización de Repsol del día 7/02/2023. Esta tabla tiene el atributo hover para que al pasar el raton por encima, esta "ilumine" la fila seleccionada.
 
-En el último fichero, servicios.html hay un carrousel de imágenes realizado con JavaScript, consta de 3 imágenes con un texto asignado a cada una. Todos los botones y diseños de esta página se encuentran en un CSS aparte denominado servicios.css
+En el último fichero, servicios.html hay un carrousel de imágenes realizado con JavaScript, consta de 3 imágenes con un texto asignado a cada una. Todos los botones y diseños de esta página se encuentran en un CSS aparte denominado estilo-servicios.css. El fichero para el código en JavaScript se llama servicios.js
